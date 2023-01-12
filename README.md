@@ -1,15 +1,13 @@
-## Hi there 👋
+# Data Analyst
+
+I am a data analyst with knowledge in data cleaning, SQL, Excel, Python, and data visualization. My focus is on using data to drive business decisions and creating actionable insights. I have experience working with various types of data and have completed multiple projects in these areas.
+
+## Skills
+- Data Cleaning
+- SQL
+- Excel
+- Python
+- Data Visualization
 
 
-<!--**Gopal564/Gopal564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
