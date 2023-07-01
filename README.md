@@ -40,7 +40,27 @@
 </p>
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> Github Stats
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/Gopal564/JDP-Call-Centre-Analysis" title="JDP Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=JDP-Call-Centre-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/Gopal564/Benjamin_Stock_valuation" title="Benjamin_Stock_valuation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Benjamin_Stock_valuation&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+ <a align="left" href="https://github.com/Gopal564/JDP-Call-Centre-Analysis" title="JDP Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=JDP-Call-Centre-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Gopal564/Benjamin_Stock_valuation" title="Benjamin_Stock_valuation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Benjamin_Stock_valuation&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
 
