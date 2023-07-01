@@ -6,7 +6,7 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
--  Passionate about data science and finance, eager to explore the convergence of these domains.
+-  Passionate about data analytics and finance, eager to explore the convergence of these domains.
   
 
 -  Combining engineering expertise with analytical skills to derive insights for financial applications. 
@@ -24,8 +24,11 @@
 <h3 align="left">Data Analysis and Visualization Tools:</h3>
 <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer" > <img src="Image/Power-BI.png" alt="PowerBi" width="40" height="40"/> </a>
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer" > <img src="Image/tableau-software.svg" alt="Tableau" width="40" height="40"/> </a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="Image/66px-Jupyter_logo.svg.png" alt="PowerBi" width="40" height="40"/> </a>
-
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="Image/66px-Jupyter_logo.svg.png" alt="JupyterNotebook" width="40" height="40"/> </a>
+<h3 align="left">Data Manipulation and Analysis Libraries:</h3>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="Image/images.png" alt="Numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="Image/images (1).png" alt="Pandas" width="40" height="40"/> </a>
 
 
 
