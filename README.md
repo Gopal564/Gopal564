@@ -54,7 +54,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Gopal564/Apartment-Building-Design" title="Apartment Building Design"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Apartment-Building-Design&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Gopal564/Valuation_Venture" title="Valuation_Venture"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Valuation_Venture&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
