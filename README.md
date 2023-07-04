@@ -43,6 +43,11 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/Gopal564/Apartment-Building-Design" title="Apartment Building Design"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Apartment-Building-Design&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Gopal564/Valuation_Venture" title="Valuation_Venture"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Valuation_Venture&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
 <a align="left" href="https://github.com/Gopal564/JDP-Call-Centre-Analysis" title="JDP Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=JDP-Call-Centre-Analysis&theme=react&border_color=61dafb&border_radius=10"></a>
  <a align="right" href="https://github.com/Gopal564/Benjamin_Stock_valuation" title="Benjamin_Stock_valuation"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Benjamin_Stock_valuation&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -50,11 +55,6 @@
 <div width="100%" align="center">
  <a align="left" href="https://github.com/Gopal564/Computational_Neuroscience" title="Computational Neuroscience"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Computational_Neuroscience&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Gopal564/Yelp_business_analysis" title="Yelp business analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Yelp_business_analysis&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Gopal564/Apartment-Building-Design" title="Apartment Building Design"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Apartment-Building-Design&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Gopal564/Valuation_Venture" title="Valuation_Venture"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal564&repo=Valuation_Venture&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
