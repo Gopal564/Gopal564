@@ -6,7 +6,7 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
--  Passionate about data analytics and finance, eager to explore the convergence of these domains.
+-  Passionate about data science and finance, eager to explore the convergence of these domains.
   
 
 -  Combining engineering expertise with analytical skills to derive insights for financial applications. 
